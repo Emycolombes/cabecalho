@@ -14,12 +14,29 @@
     
 }
 
-.cabecalho-imagem{
-    width: 25%;
+.imagem-roupa{
+    margin: 0 35px;
+    padding: 65PX ;
+}
+
+.titulo-nova{
+    font-size: 60px;
+    margin: 0 150px;
+}
+
+.novacolecao{
+    display: flex;
+    align-items: center;
+}
+
+
+.titulo-colecao{
+    font-size: 60px;
+    margin: 0 130px;
 }
 
 .cabecalho-lista-item{
     display: inline-block;
-    margin: 0  700px;
-
+    margin: 0 700px;
+    color: indianred;
 }
