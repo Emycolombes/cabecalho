@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
 
 .cabecalho {
     background-color: #FFECF0;
@@ -39,4 +43,68 @@
     display: inline-block;
     margin: 0 700px;
     color: indianred;
+}
+
+.calca-loja{
+    width: 150px;
+}
+
+.cropped-strass{
+    width: 150px;
+}
+
+.cropped-verde{
+    width: 150px;
+}
+
+.conjunto-rosa{
+    width: 150px;
+}
+
+.vestido-verde{
+    width: 150px;
+}
+
+.calca-panta{
+    width: 150px;
+}
+
+.conj-laranja{
+    width: 150px;
+}
+
+.casaco-trico{
+    width: 150px;
+}
+
+.vestido-novo{
+    width: 150px;
+}
+
+.produtosloja-div{
+    text-align: center;
+}
+
+.produtos-titulo{
+    text-align: center;
+}
+
+
+.produtos-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.rodape{
+    background-color:#FFECF0 ;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+}
+
+.linha{
+    background-color: lightcoral;
 }
